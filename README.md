@@ -49,6 +49,7 @@ A Manager can view reimbursement requests from a single Employee
 
 
 Technologies:
+
 Java 1.8
 Maven
 JDBC
